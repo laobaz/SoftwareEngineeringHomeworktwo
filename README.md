@@ -7,7 +7,7 @@
 
 # 个人项目《用python实现论文查重程序》
 
-本次项目 github 项目链接：xxx
+本次项目 github 项目链接：[第二次作业](https://github.com/laobaz/SoftwareEngineeringHomeworktwo#softwareengineeringhomeworktwo)
 
 ## 需求分析
 
