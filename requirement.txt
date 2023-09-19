@@ -1,0 +1,12 @@
+包 ：sys Simhash jieba re 
+
+
+sys:用于读取命令行的指令
+
+
+re:引用对文本进行正则表达式的判断.
+
+
+jieba：用于对文本进行分词
+
+Simhash：用于判断文本的相似度
